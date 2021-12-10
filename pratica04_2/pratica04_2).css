@@ -1,0 +1,17 @@
+html {
+    height: 95%;
+}
+
+form{
+    width: 23rem;
+    margin: 8rem auto 1rem auto;
+    background-color: gray;
+    color:black;
+    border: solid gray 1px;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+
+td {
+    padding: .2rem;
+}
